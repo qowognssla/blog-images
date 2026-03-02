@@ -1,0 +1,12 @@
+{
+  "danji_name": "두산위브 더센트럴 수원",
+  "address": "경기도 수원시",
+  "images": {
+    "단지_전경_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/두산위브_더센트럴_수원/단지_전경_1.jpg",
+    "배치도_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/두산위브_더센트럴_수원/배치도_1.jpg",
+    "위치도": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/두산위브_더센트럴_수원/위치도.png",
+    "조감도_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/두산위브_더센트럴_수원/조감도_1.jpg",
+    "평면도_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/두산위브_더센트럴_수원/평면도_1.jpg"
+  },
+  "count": 5
+}
