@@ -1,0 +1,11 @@
+{
+  "danji_name": "한국 부동산 시장 전망",
+  "address": "서울특별시 강남구",
+  "images": {
+    "단지_전경_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/한국_부동산_시장_전망/단지_전경_1.jpg",
+    "위치도": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/한국_부동산_시장_전망/위치도.png",
+    "조감도_2": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/한국_부동산_시장_전망/조감도_2.jpg",
+    "평면도_2": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/한국_부동산_시장_전망/평면도_2.jpg"
+  },
+  "count": 4
+}
