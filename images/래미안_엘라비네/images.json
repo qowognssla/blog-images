@@ -1,0 +1,11 @@
+{
+  "danji_name": "래미안 엘라비네",
+  "address": "서울",
+  "images": {
+    "배치도_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/래미안_엘라비네/배치도_1.jpg",
+    "위치도": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/래미안_엘라비네/위치도.png",
+    "조감도_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/래미안_엘라비네/조감도_1.jpg",
+    "평면도_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/래미안_엘라비네/평면도_1.jpg"
+  },
+  "count": 4
+}
