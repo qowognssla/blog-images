@@ -1,0 +1,12 @@
+{
+  "danji_name": "더샵 프리엘라",
+  "address": "서울 영등포구 문래동5가 22",
+  "images": {
+    "단지_전경_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/더샵_프리엘라/단지_전경_1.jpg",
+    "배치도_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/더샵_프리엘라/배치도_1.jpg",
+    "위치도": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/더샵_프리엘라/위치도.png",
+    "조감도_1": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/더샵_프리엘라/조감도_1.jpg",
+    "평면도_2": "https://raw.githubusercontent.com/qowognssla/blog-images/main/images/더샵_프리엘라/평면도_2.jpg"
+  },
+  "count": 5
+}
